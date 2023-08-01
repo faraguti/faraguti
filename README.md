@@ -3,9 +3,7 @@
 ## About Me
 
 I'm a passionate Computer Information Technology student with a strong interest in Cloud Computing and Database Administration. My journey into technology started with a fascination for technology itself, and I've expanded my expertise into the realm of cloud solutions and infrastructure management.
-
 I enjoy exploring new technologies and tools to enhance my skills and stay up-to-date with the latest industry trends. My goal is to leverage technology to solve real-world problems and create innovative solutions. I also share my knowledge on YouTube through technology-related content.
-
 Feel free to explore my projects and repositories, where I work on exciting tech-related projects and showcase my skills and learning journey.
 
 Thank you for visiting my profile! 🚀
