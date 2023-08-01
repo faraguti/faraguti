@@ -1,4 +1,11 @@
-<h1># Hello, I'm Felipe Faraguti!</h1>
+<h1>Hello, I'm Felipe Faraguti!</h1>
+
+## About Me
+
+I'm a passionate Computer Information Technology student with a strong interest in Cloud Computing and Database Administration. My journey into technology started with a fascination for programming, and I've expanded my expertise into the realm of cloud solutions and cybersecurity.
+
+I'm actively engaged in contributing to open-source projects and sharing my knowledge on YouTube through technology-related content. My goal is to leverage technology to solve real-world problems, and I enjoy exploring new technologies and tools.
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
