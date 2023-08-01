@@ -25,24 +25,6 @@ Thank you for visiting my profile! 🚀
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn new things. If you have any questions or just want to say hello, don't hesitate to reach out!
 
 
