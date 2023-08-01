@@ -17,7 +17,7 @@ Thank you for visiting my profile! 🚀
   - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/cs1.6-server)
 
 
-🤳 ## Connect with Me
+## 🤳 Connect with Me
 
 - LinkedIn: [linkedin.com/in/felipefaraguti](https://www.linkedin.com/in/felipefaraguti/)
 - YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/your-youtube-channel)
