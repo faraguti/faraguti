@@ -23,8 +23,6 @@ Thank you for visiting my profile! 🚀
 - YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/your-youtube-channel)
 
 <br>
-<br>
-<br>
 Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn new things. If you have any questions or just want to say hello, don't hesitate to reach out!
 
 
