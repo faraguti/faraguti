@@ -19,7 +19,7 @@ Thank you for visiting my profile! 🚀
 
 ## 🤳 Connect with Me
 
-- LinkedIn: [linkedin.com/in/felipefaraguti](https://www.linkedin.com/in/felipe-faraguti)
+- LinkedIn: [linkedin.com/in/felipe-faraguti](https://www.linkedin.com/in/felipe-faraguti)
 - YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/your-youtube-channel)
 
 
