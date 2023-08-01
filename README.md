@@ -21,6 +21,7 @@ Thank you for visiting my profile! 🚀
 
 - LinkedIn: [linkedin.com/in/felipefaraguti](https://www.linkedin.com/in/felipe-faraguti)
 - YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/your-youtube-channel)
+
 Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn new things. If you have any questions or just want to say hello, don't hesitate to reach out!
 
 
