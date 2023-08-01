@@ -1,6 +1,6 @@
 <h1>Hello, I'm Felipe Faraguti!</h1>
 
-About Me
+## About Me
 
 I'm a passionate Computer Information Technology student with a strong interest in Cloud Computing and Database Administration. My journey into technology started with a fascination for technology itself, and I've expanded my expertise into the realm of cloud solutions and infrastructure management.
 
