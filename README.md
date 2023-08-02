@@ -10,7 +10,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 <h2> 👨‍💻 Projects:</h2>
 
 - <b>AWS</b>
-  - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/cs1.6-server)
+  - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/AWS-CS-Server)
 
 - <b>PowerShell</b>
   - [Guessing Game](https://github.com/faraguti/ps-guessing-game)
