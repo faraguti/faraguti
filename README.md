@@ -14,6 +14,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 
 - <b>PowerShell</b>
   - [Guessing Game](https://github.com/faraguti/PS-Guessing-Game)
+  - [Active Directory User & Group Management Script](https://github.com/faraguti/AD-UserGroup-Management-Script)
 
 
 ## 🤳 Connect with Me
