@@ -13,7 +13,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
   - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/AWS-CS-Server)
 
 - <b>PowerShell</b>
-  - [Guessing Game](https://github.com/faraguti/ps-guessing-game)
+  - [Guessing Game](https://github.com/faraguti/PS-Guessing-Game)
 
 
 ## 🤳 Connect with Me
