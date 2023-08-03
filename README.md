@@ -14,6 +14,9 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
  
 - **Docker**
   - [Docker Container Commit and Push to Docker Hub](https://github.com/faraguti/Docker-Commit-Push-Guide)
+ 
+- **IaC**
+  - [Terraform Static Website - AWS S3](https://github.com/faraguti/Terraform-Website-S3)
 
 - <b>PowerShell</b>
   - [Active Directory User & Group Management Script](https://github.com/faraguti/AD-UserGroup-Management-Script)
