@@ -21,7 +21,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
  
 - **IaC**
   - [Terraform Static Website - AWS S3](https://github.com/faraguti/Terraform-Website-S3)
-  - [Terraform Cloud Database Deployment on GCP](https://github.com/faraguti/GCP-Terraform-CloudSQL)
+  - [Terraform Cloud Database Deployment - GCP](https://github.com/faraguti/GCP-Terraform-CloudSQL)
 
 - <b>PowerShell</b>
   - [Active Directory User & Group Management Script](https://github.com/faraguti/AD-UserGroup-Management-Script)
