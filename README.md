@@ -15,7 +15,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 - **Docker**
   - [Docker Container Commit and Push to Docker Hub](https://github.com/faraguti/Docker-Commit-Push-Guide)
  
-- **GCP**
+- **GCP / Kubernetes**
   - [Deploying WordPress and MySQL using Kubernetes](https://github.com/faraguti/GCP-K8s-WordPress-MySQL)
  
 - **IaC**
