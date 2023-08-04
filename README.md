@@ -29,7 +29,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 ## 🤳 Connect with Me
 
 - LinkedIn: [linkedin.com/in/felipe-faraguti](https://www.linkedin.com/in/felipe-faraguti)
-- YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/your-youtube-channel)
+- YouTube: [youtube.com/your-youtube-channel](https://www.youtube.com/playlist?list=PLH3Rl7vMLE1QpPZyySLwjbPYEYR9_cTtP)
 
 ##
 
