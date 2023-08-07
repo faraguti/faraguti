@@ -9,7 +9,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 
 <h2> 👨‍💻 Projects:</h2>
 
-- <b>AWS</b>
+- **AWS**
   - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/AWS-CS-Server)
  
 - **Docker**
@@ -24,7 +24,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
   - [Terraform Cloud Database Deployment (MySQL and PostgreSQL) - GCP](https://github.com/faraguti/GCP-Terraform-CloudSQL)
   - [AWS Deployment Pipeline with Jenkins and Terraform](https://github.com/faraguti/Jenkins-Terraform)
 
-- <b>PowerShell</b>
+- **PowerShell**
   - [Active Directory User & Group Management Script](https://github.com/faraguti/AD-UserGroup-Management-Script)
   - [Guessing Game](https://github.com/faraguti/PS-Guessing-Game)
   
