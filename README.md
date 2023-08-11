@@ -20,6 +20,7 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
   - [Deploying WordPress and MySQL using Kubernetes](https://github.com/faraguti/GCP-K8s-WordPress-MySQL)
  
 - **IaC**
+  - [Automated 3-Tier VPC Deployment on AWS with Terraform](https://github.com/faraguti/3-Tier-VPC-AWS)
   - [Terraform Static Website - AWS S3](https://github.com/faraguti/Terraform-Website-S3)
   - [Terraform Cloud Database Deployment (MySQL and PostgreSQL) - GCP](https://github.com/faraguti/GCP-Terraform-CloudSQL)
   - [AWS Deployment Pipeline with Jenkins and Terraform](https://github.com/faraguti/Jenkins-Terraform)
