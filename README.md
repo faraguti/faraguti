@@ -10,7 +10,9 @@ I enjoy exploring new technologies and tools to enhance my skills and stay up-to
 <h2> 👨‍💻 Projects:</h2>
 
 - **AWS**
+  - [AWS Cloud Resume Challenge](https://github.com/faraguti/AWS-Cloud-Resume-Challenge)
   - [CS 1.6 Server on AWS EC2](https://github.com/faraguti/AWS-CS-Server)
+  
  
 - **Docker**
   - [Docker Container Commit and Push to Docker Hub](https://github.com/faraguti/Docker-Commit-Push-Guide)
