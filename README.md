@@ -1,5 +1,4 @@
 # Hi there I am [Felipe Faraguti](https://resume.faraguti.cloud/)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
 
 ## About Me
 
