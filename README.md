@@ -1,4 +1,4 @@
-<h1>Hello, I'm Felipe Faraguti!</h1>
+<h1>Hello, I'm [Felipe Faraguti](https://faraguti.com/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!</h1>
 
 ## About Me
 
